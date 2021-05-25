@@ -1,8 +1,6 @@
 # Read Me
 - 👋 Hi, I’m @josephbridge2020
 - 👀 I’m interested in ...LEARNING
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://josephbridge2020.github.io
 
 <!---
