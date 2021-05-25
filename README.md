@@ -7,6 +7,6 @@
 josephbridge2020/josephbridge2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Adding another section
+## Adding another section
 
 Just testing this out
